@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# AWS SAM / CDK / Terraform
+.aws-sam/
+cdk.out/
+.terraform/
+
+# Build
+dist/
+build/
+client-dist/
+
+# Docker
+*.pid
+*.log
+*.tmp
+docker-compose.override.yml
