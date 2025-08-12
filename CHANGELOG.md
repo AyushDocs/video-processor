@@ -6,3 +6,4 @@
 
 ## [0.1.0] - 2025-08-12
 - Created README, LICENSE, gitignore, and GitHub Actions workflow
+- Created AWS IAM CI/CD user with programmatic access for GitHub Actions
